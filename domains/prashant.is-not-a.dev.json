@@ -1,0 +1,19 @@
+{
+    "$schema": "../schemas/domain.schema.json",
+  
+    "description": "prashant.is-not-a.dev (migrated from old service)",
+  
+    "domain": "is-not-a.dev",
+    "subdomain": "prashant",
+  
+    "owner": {
+      "email": "meprazhant@gmail.decom"
+    },
+  
+    "record": {
+      "CNAME": "prashantkafle.com.np."
+    },
+  
+    "proxy": false
+  }
+  
